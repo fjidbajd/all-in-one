@@ -29,10 +29,10 @@ wget -O vless-server.sh [https://raw.githubusercontent.com/fjidbajd/all-in-one/r
 ```
 
 ---
-
 🤝 鸣谢与声明
 原作者：Chil30
 
 核心支持：Xray-core, Sing-box
 
 免责声明：本脚本仅供学习交流及科研使用，请勿用于非法用途。使用本脚本产生的一切后果由使用者自行承担。
+---
